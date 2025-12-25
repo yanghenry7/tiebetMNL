@@ -1,0 +1,5 @@
+{
+  "name": "Baccarat Pro EV Calculator",
+  "description": "A professional baccarat probability and expected value calculator with customizable payouts for ties, pairs, and specific tie bonuses (0-9 points).",
+  "requestFramePermissions": []
+}
