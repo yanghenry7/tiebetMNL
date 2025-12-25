@@ -5,8 +5,8 @@ import react from '@vitejs/plugin-react';
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  // 必須與您的 GitHub 儲存庫名稱一致，確保靜態資源載入正確
-  base: '/tiebetMNL/',
+  // 必須與您的 GitHub 儲存庫名稱（區分大小寫）一致
+  base: '/TiebetMNL/',
   build: {
     outDir: 'dist',
     emptyOutDir: true
